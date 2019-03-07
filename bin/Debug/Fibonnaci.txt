@@ -1,0 +1,20 @@
+LDI r1, 1
+LDI r2, 100
+LDI r3, 10
+STD  100, r1
+STD  101,  r1
+SUBI r3,  2
+
+
+LDX r4, r2
+ADDI r2, 1
+LDX r5, r2
+ADD r5, r4
+ADDI r2, 1
+STX r2, r5
+SUBI r3, 1
+SUBI r2, 1
+LDI r6, 6
+
+JMPIG r6,r3
+STOP 
