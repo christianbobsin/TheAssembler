@@ -1,3 +1,5 @@
+STD 255, r7
+JMP 15
 LDI r1, 1
 LDI r2, 100
 LDI r3, 10

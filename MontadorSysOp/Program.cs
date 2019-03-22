@@ -52,7 +52,7 @@ namespace TheAssembler
 
             if (command[0].ToUpper() != "STOP")
             {
-                if (command[1].Length > 0)
+                if (command.Length > 1 )
                 {
                     if (uint.TryParse(command[1], out uint immediate))
                     {

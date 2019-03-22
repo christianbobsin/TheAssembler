@@ -28,3 +28,18 @@ C:\Users\christian.bobsin\Documents\Visual Studio 2017\TheAssembler-master\Monta
 C:\Users\christian.bobsin\Documents\Visual Studio 2017\TheAssembler-master\MontadorSysOp\obj\Debug\TheAssembler.csproj.CopyComplete
 C:\Users\christian.bobsin\Documents\Visual Studio 2017\TheAssembler-master\MontadorSysOp\obj\Debug\TheAssembler.exe
 C:\Users\christian.bobsin\Documents\Visual Studio 2017\TheAssembler-master\MontadorSysOp\obj\Debug\TheAssembler.pdb
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\TheAssembler.exe.config
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\TheAssembler.exe
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\TheAssembler.pdb
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\System.Data.dll
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\System.dll
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\System.Net.Http.dll
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\System.Xml.dll
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\bin\Debug\System.Xml.Linq.dll
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\obj\Debug\TheAssembler.csprojAssemblyReference.cache
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\obj\Debug\TheAssembler.csproj.CoreCompileInputs.cache
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\obj\Debug\TheAssembler.csproj.CopyComplete
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\obj\Debug\TheAssembler.exe
+C:\Users\17200219\Desktop\TheAssembler-master\MontadorSysOp\obj\Debug\TheAssembler.pdb
